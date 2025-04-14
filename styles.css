@@ -21,6 +21,7 @@ h1{
 }
 a{
     text-decoration: none;
+    color: var(--primary-text-color);
     /* display: inline-block; */
 }
 ul{
@@ -175,6 +176,9 @@ ul{
 }
 .container-box-left-bottom-text{
     font-weight: 400;
+}
+.container-box-right img{
+    height: 170px;
 }
 
 
